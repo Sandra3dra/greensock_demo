@@ -1,0 +1,8 @@
+/*charset="utf-8";*//*no need*/
+
+.box{
+	width: 200px;
+	height: 200px;
+	background: gold;
+	position: relative; 
+}
